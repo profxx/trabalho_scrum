@@ -2,6 +2,6 @@
 
 Assistir ao vídeo
 
--1 - Dividir os grupos
--2 - Cada grupo adiciona no diretório do grupo neste repositório
--3 - Começam as atividades
+<p>1 - Dividir os grupos</p>
+<p>2 - O PO cria um repositório e o time faz o pull request a cada dia</p>
+<p>3 - Começam as atividades</p>
